@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63fb7d30e4ca6a94e8698b7b488e4ba5, type: 3}
+  m_Name: Capucines
+  m_EditorClassIdentifier: 
+  buyVisual: {fileID: 2100000, guid: c1bb4072140bfd0448ba9ed8d770ee45, type: 2}
+  buyName: Boulevard des Capucines
+  buyCost: 320
+  houseCost: 200
+  rents: 1c00000096000000c2010000e8030000b004000078050000
